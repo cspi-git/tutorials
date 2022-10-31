@@ -1,0 +1,4 @@
+Name: How to safely run any app in multiple instances in one device in Android?
+Tags: sandboxie, security, safety, android
+
+Use Water Clone. https://play.google.com/store/apps/details?id=com.space.water.clone.multiple.clone.app.accounts&hl=en&gl=US

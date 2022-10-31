@@ -1,0 +1,12 @@
+Name: How to have multiple secure crypto wallets in a single software?
+Tags: method, crypto, wallets, sandboxie, safety, security
+
+1. Download Exodus. https://www.exodus.com/download/
+2. Download Sandboxie Classic. https://sandboxie-plus.com/downloads/
+3. Install Exodus but don't do anything.
+4. Install Sandboxie Classic & run it. Click > Sandbox > "Create a New Sandbox" add any name then click **OK**.
+5. Right click the Sandbox > Run Sandboxed > Run Any Program then find the Exodus exe or shortcut file then run it and go with the flow(Do your stuff).
+6. Boom, now to have multiple profiles to Exodus just repeat the steps. Now you have a multiple secure wallets.
+
+Will my profiles get deleted If Sandboxie is uninstalled? Not unless the folder **C:\Sandboxie** is deleted, so keep it safe.
+Will a profile get deleted If I remove It's Sandbox? Yes.

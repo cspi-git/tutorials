@@ -1,0 +1,15 @@
+Name: Ban any user in any Minecraft server
+Tags: trick, method, minecraft
+```
+1. Download a Minecraft hack client called Jigsaw. https://www.mediafire.com/file/o91g4ix9v4ozu47/Jigsaw_0.26.zip/file
+2. Join any Minecraft server that has a forum where you can report bugs, hackers, etc.
+3. Download a high FPS desktop recorder like OBS, Bandicam, etc.
+4. Now to open the cheat GUI use RSHIFT and to close it just press ESC.
+5. Enable the "World" module and right click it to see the things you can do with the module, after that find "FakeHackers" then enable it.
+6. In your chat box type .fakehacker <playerName>
+
+This will make it look like that the player is hacking on your screen.
+
+Now, to ban him type the command press "P" to hide the hack client, and make a bind key in your desktop recorder to record now just record him then after you record him for a few minutes stop the recorder.
+Double check the recorded video if they are any hack client that is enabled so the staff that will review the video won't suspect that your faking the video. If they check the video and It's all normal they will ban the player for hacking :)
+```

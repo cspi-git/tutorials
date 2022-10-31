@@ -1,0 +1,26 @@
+Name: How to log the IPs of people who are trying to dox you?
+Tags: trap, checkmate, outsmart, dox, logging
+
+Note: Make sure to modify the file in public > index.html & public > users and It's HTML file and the logged IPs are logged in the **ips** collection.
+
+Recommended database client: https://dbgate.org/
+
+1. Make a database server using https://www.mongodb.com/
+2. Make database called "self" and a collection called "ips" in the database
+3. Install NodeJS v14
+4. Search & Download this file **ID: 00001** in #resources then unzip it.
+5. Open your CMD in the folder then type "npm i vercel -g"
+6. Register to https://vercel.com/
+7. In the folder modules > mongodb.js find "MONGODB_DBHERE" then change it with your MongoDB url.
+8. Type "vercel --prod" then login and go with the flow(Name it something like **Private Dox Hub**).
+9. You will get a URL.
+10. Setup is done.
+
+Method 1 to checkmate a doxer:
+1. Go to https://doxbin.com/
+2. Make a paste with fake information in https://en.namefake.com/ but only post the half.
+3. Make a HTML file in the public users with full info.
+4. On the last body of the doxbin paste, paste your IP logger their linked to the user information.
+5. Post the paste.
+
+Hope this gives you some ideas. "Misinformation is what makes any person doubt with the information he already has."

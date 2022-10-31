@@ -1,0 +1,7 @@
+Name: How to reduce apps tracker(Ads) using Lucky Patcher?
+Tags: privacy, security, safety
+
+How can apps track you? Ads. Yes they can track you via ads basicly It just works like a website ads.
+
+Official Website: https://www.luckypatchers.com/
+I'm not gonna explain the steps here because It's long, good thing that they have a doc in there website. https://www.luckypatchers.com/remove-ads-from-android-apps/

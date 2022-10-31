@@ -1,0 +1,9 @@
+Name: How to use IRC anonymously with Tor?
+Tags: security, safety, irc, anonymous, tor
+
+1. Download & Install HexChat. https://hexchat.github.io/
+2. Connect to any server then click Settings > Preferences > Network setup
+3. Download Tor Bundle. https://www.torproject.org/download/tor/ just scroll down and run it.
+4. In the HexChat **Proxy Server** host name put 127.0.0.1 and for the port 9050 and make sure the type is SOCKS5 and **use proxy for** is "All connections".
+5. Exit HexChat and run it again.
+6. Boom now you are connected to Tor while chatting with your homies in IRC.

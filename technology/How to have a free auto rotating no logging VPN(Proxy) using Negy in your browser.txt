@@ -1,0 +1,8 @@
+Name: How to have a free auto rotating no logging VPN(Proxy) using Negy in your browser?
+Tags: negy, auto-rotating, proxy, vpn, browser, extension
+
+1. Install SwitchyOmega. https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
+2. Go to Options > Profiles(Proxy)
+3. Server is gateway.negy.io and port is 1080 and make sure the protocol is HTTP.
+4. Click "Apply changes" and click the extension icon then click "Proxy".
+5. Visit https://api.ipify.org/ to see If It changed your IP.

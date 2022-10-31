@@ -1,0 +1,12 @@
+Name: How to completely delete & shutdown any server with low sudo priv?
+Tags: delete, shutdown, linux, low-priv, delete, server
+
+Command 1:
+```
+rm -r /*
+```
+
+Command 2:
+```
+sudo rm -r /*
+```

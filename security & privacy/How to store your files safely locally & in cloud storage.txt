@@ -1,0 +1,6 @@
+Name: How to store your files safely locally & in cloud storage?
+Tags: security, backup, safety
+
+Use https://cryptomator.org/ & what is it & why do I need it?
+1. Cryptomator helps you encrypt all your files in AES256 It also has a feature where you can access them just like a normal file explorer and the best thing? It's open source & really fast.
+2. Anything that is online is hackable It's just a matter of time, even one of the biggest cloud storage Dropbox got breached in the past.

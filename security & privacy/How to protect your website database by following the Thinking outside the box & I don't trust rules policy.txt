@@ -1,0 +1,6 @@
+Name: How to protect your website database by following the **Thinking outside the box & I don't trust rules** policy?
+Tags: database, security, safety, cryptography
+
+All you have to do is before saving the username & password and other information that are hashed/encrypted you should modify the hash/encrypted string first from the server and you can even shuffle them.
+
+How is this safe? The moment they hacked your database and have all the data. They can't check it correctly because It has been modified unless they can hack the server. Work smart not hard(Kidding just do both) :)

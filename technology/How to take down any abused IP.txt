@@ -1,0 +1,7 @@
+Name: How to take down any abused IP?
+Tags: security, safety, take-down, abused
+
+1. Make sure you have the IP.
+2. Visit https://app.netlas.io/host/ and search the IP
+3. Find **Abuse:** then report the IP via email.
+4. Wait for them to take action and take care of it(Depends If the IP has been abused for like DDoSing, botnet & etc).

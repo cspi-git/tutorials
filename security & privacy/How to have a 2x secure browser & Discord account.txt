@@ -1,0 +1,11 @@
+Name: How to have a 2x secure browser & Discord account?
+Tags: method, sandboxie, safety, security
+
+1. Download Sandboxie Classic. https://sandboxie-plus.com/downloads/
+2. Install Sandboxie Classic & run it. Click > Sandbox > "Create a New Sandbox" add any name then click OK.
+3. Right click the Sandbox > Run Sandboxed > Run Any Program the run any browser or Discord.
+4. Be safe. <3
+
+Average stealers won't be able to steal your accounts in Sandboxie even If you run one accidently.
+
+Bonus: You can also enable Windows Anti Ransomware and set your %AppData% path on it for super extra protection.
