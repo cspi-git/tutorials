@@ -1,0 +1,6 @@
+Name: How to have a Linux shell in your Android?
+Tags: linux, shell, terminal, android
+
+Most people will prefer Termux. https://play.google.com/store/apps/details?id=com.termux&gl=US
+
+But due to some stuff that Termux does not have like connecting to the Terminal via SSH I use Andronix, also Andronix provides 5+ different OS that you can install. https://play.google.com/store/apps/details?id=studio.com.techriz.andronix&gl=US
