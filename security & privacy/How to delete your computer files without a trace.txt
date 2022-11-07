@@ -1,0 +1,4 @@
+Name: How to delete your computer files without a trace?
+Tags: delete, files, impossible, recover
+
+Just use https://schiffer.tech/ow-shredder.html also keep in mind that be careful of what files are you deleting because they will be impossible to recover.

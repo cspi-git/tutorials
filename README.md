@@ -28,6 +28,8 @@ Hanaui tutorials.
 - How to store your files safely locally & in cloud storage?
 - How to use IRC anonymously with Tor?
 - How to have multiple secure crypto wallets in a single software?
+- How to protect your webcam from unauthorize access?
+- How to delete your computer files without a trace?
 
 ### Technology
 - 5 Cloud Storage that I trust
@@ -38,6 +40,8 @@ Hanaui tutorials.
 - How to have an unlimited disposable gmail?
 - How to have an unlimited email address in one roof?
 - How to have an unlimited gmail using a single gmail?
+- How to have a Linux shell in your Android?
+- How to convert your code in any programming language?
 
 ## License
 MIT © I2rys
