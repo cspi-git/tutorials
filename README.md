@@ -43,5 +43,9 @@ Hanaui tutorials.
 - How to have a Linux shell in your Android?
 - How to convert your code in any programming language?
 
+### Special
+- The only guide that can make doxers question their reality + how to checkmate them
+- I am the shadow
+
 ## License
 MIT © I2rys
