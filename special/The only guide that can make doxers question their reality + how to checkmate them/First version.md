@@ -67,7 +67,7 @@ What about my personal accounts?
 Go to your gmail then just delete the hacking forum verification & stuff or change your personal account recovery code(Not recommended) because-
 It can make things 10x harder and probably useless because Facebook logs everything/any other site and It will make you reset everything. As long as there are no connection between your hacking accounts & personal then your 100% safe.
 
-## Removes traces
+## Remove traces
 Search your real name & information and the names of your accounts online and If you found your real name/a personal info in search people website just contact the support to delete your personal information in the website and for your non personal account names If your personal name has been leaked due to your past mistake don't panic because everything in the internet can be faked instead take note because It's better to know what is going on than not to prevent it, separate your non personal account more because they will also need to verify If the personal info on the website is real(If you have not reveal your real name/showed your face).
 
 Also use:
