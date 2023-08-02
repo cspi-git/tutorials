@@ -1,4 +1,4 @@
-# Tutorials
+# Tutorials (Archived)
 Hanaui tutorials.
 
 ## Files
@@ -48,4 +48,4 @@ Hanaui tutorials.
 - I am the shadow
 
 ## License
-MIT © I2rys
+MIT © Hanaui
